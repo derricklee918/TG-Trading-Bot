@@ -3,7 +3,7 @@
 > Want to fork? Feel free and chat with the Telegram bot @BotFather to have your TOKEN.
 
 ## Contact me
-Telegram: [@derricklee918](https://t.me/@derricklee918)
+Telegram: [@dwlee918](https://t.me/@dwlee918)
 
 ## How it works
 - Fetch Stock/Currency from Yahoo Finance (find symbols there).
